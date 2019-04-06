@@ -1,4 +1,3 @@
-// update_test.js
 const assert = require('assert');
 const Pokemon = require('../src/pokemon');
 describe('Deleting a pokemon', () => {

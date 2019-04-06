@@ -1,4 +1,3 @@
-//inside read_test.js
 const assert = require('assert');
 const Pokemon = require('../src/pokemon');
 let poke;
