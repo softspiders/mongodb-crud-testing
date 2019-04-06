@@ -30,7 +30,7 @@ yarn test
 ## Authors
 
 * [Priyesh Patel](https://gist.github.com/priyesh18) - original code
-* [Alexander Lapygin](https://github.com/AlexanderLapygin)
+* [Alexander Lapygin](https://github.com/AlexanderLapygin) - embedding in [Soft Spiders](https://github.com/softspider)
 
 ## Inspiration
 
