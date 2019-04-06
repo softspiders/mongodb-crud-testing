@@ -1,4 +1,4 @@
-# CRUD testing for Mongoose in Mocha
+# CRUD testing in MongoDb && Mongoose && Mocha
 
 ## Requirements
 
@@ -29,8 +29,8 @@ yarn test
 
 ## Authors
 
-* [Priyesh Patel](https://gist.github.com/priyesh18) - original code
-* [Alexander Lapygin](https://github.com/AlexanderLapygin)
+* [Priyesh Patel](https://gist.github.com/priyesh18) - [original code](https://blog.bitsrc.io/build-a-unit-testing-suite-with-mocha-and-mongoose-eba06c3b3625)
+* [Alexander Lapygin](https://github.com/AlexanderLapygin) - embedding in [Soft Spiders](https://github.com/softspider)
 
 ## Inspiration
 
