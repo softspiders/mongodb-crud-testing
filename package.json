@@ -1,0 +1,16 @@
+{
+  "name": "pokemons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon --exec mocha -R min"
+  },
+  "author": "Alexander Lapygin <alexanderlapygin@gmail.com> (https://github.com/capcross)",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^6.0.2",
+    "mongoose": "^5.4.22",
+    "nodemon": "^1.18.10"
+  }
+}
