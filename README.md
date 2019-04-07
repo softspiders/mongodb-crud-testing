@@ -1,4 +1,4 @@
-# CRUD testing in MongoDb && Mongoose && Mocha
+# CRUD testing in MongoDb with Mongoose and Mocha
 
 ## Requirements
 
