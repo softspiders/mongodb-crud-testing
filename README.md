@@ -21,7 +21,7 @@ Yet absent
 yarn
 ```
 
-## Test running
+## Running tests
 
 ```sh
 yarn test
