@@ -27,11 +27,11 @@ describe('Deleting a pokemon', () => {
  
   it('update pokemon using instance', (done) => {
     //useful to update multiple fields of the object
-    assertHelper(poke.update({ name: 'Pickachu' }), done);
+    assertHelper(poke.updateOne({ name: 'Pickachu' }), done);
   });
 
   it('update all matching pokemons using model', (done) => {
-    assertHelper(Pokemon.update({ name: 'poke' }, { name: 'Pickachu' }), done);
+    assertHelper(Pokemon.updateOne({ name: 'poke' }, { name: 'Pickachu' }), done);
   });
 
   it('update one pokemon using model', (done) => {

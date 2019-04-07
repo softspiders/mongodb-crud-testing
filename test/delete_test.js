@@ -20,7 +20,7 @@ describe('Deleting a pokemon', () => {
   });
 
   it('removes multiple pokemons', (done) => {
-    Pokemon.remove({ name: 'poke' })
+    Pokemon.deleteOne({ name: 'poke' })
       .then(() => Pokemon.findOne({ name: 'poke' }))
       .then((pokemon) => {
         assert(pokemon === null);

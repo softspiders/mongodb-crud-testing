@@ -1,7 +1,8 @@
 const mongoose = require('mongoose');
 //tell mongoose to use es6 implementation of promises
 mongoose.Promise = global.Promise;
-mongoose.connect('mongodb://localhost/pokemons'); 
+mongoose.set('useFindAndModify', false); // Getting rid of 'DeprecationWarning: collection.findAndModify is deprecated'
+mongoose.connect('mongodb://localhost/pokemons', { useNewUrlParser: true }); 
 mongoose.connection
     .once('open', () => console.log('Connected!'))
     .on('error', (error) => {
