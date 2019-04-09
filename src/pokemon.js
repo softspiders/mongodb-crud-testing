@@ -7,6 +7,7 @@ const PokemonSchema = new Schema({
    },
    type: String
   })
+  
 //Pokemon constant represents the entire collection of data
 const Pokemon = mongoose.model('Pokemon', PokemonSchema);
 module.exports = Pokemon;
