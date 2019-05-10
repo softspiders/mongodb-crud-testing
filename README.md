@@ -5,13 +5,9 @@
 * [Node.js](https://nodejs.org/en/download/package-manager/)
 * [MongoDb](https://www.mongodb.com/)
 
-## Direct ancestors
+## Direct feature ancestors
 
 [mongoose](https://github.com/softspider/mongoose)
-
-## Direct descendants
-
-Yet absent
 
 ---
 
