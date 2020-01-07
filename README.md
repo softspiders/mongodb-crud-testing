@@ -1,5 +1,13 @@
 # CRUD testing in MongoDb with Mongoose and Mocha
 
+
+## Feature tags
+
+- crud
+- mocha
+- mongoose
+- template
+
 ## Requirements
 
 * [Node.js](https://nodejs.org/en/download/package-manager/)
