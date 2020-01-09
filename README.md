@@ -1,3 +1,5 @@
+SOFTSPIDERS
+
 # CRUD testing in MongoDb with Mongoose and Mocha
 
 
@@ -13,7 +15,7 @@
 * [Node.js](https://nodejs.org/en/download/package-manager/)
 * [MongoDb](https://www.mongodb.com/)
 
-## Direct feature ancestors
+## Direct ancestors
 
 [mongoose](https://github.com/softspider/mongoose)
 
