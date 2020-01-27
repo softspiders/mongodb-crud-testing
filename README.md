@@ -17,7 +17,7 @@ SOFTSPIDERS
 
 ## Direct ancestors
 
-[mongoose](https://github.com/softspider/mongoose)
+[mongoose](https://github.com/softspiders/mongoose)
 
 ---
 
