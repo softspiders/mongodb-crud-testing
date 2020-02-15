@@ -10,17 +10,18 @@ SOFTSPIDERS
 - mongoose
 - template
 
-## Requirements
-
-* [Node.js](https://nodejs.org/en/download/package-manager/)
-* [MongoDb](https://www.mongodb.com/)
-
 ## Direct ancestors
 
 [mongoose](https://github.com/softspiders/mongoose)
 
 ---
 
+## Requirements
+
+* [Node.js](https://nodejs.org/en/download/package-manager/)
+* [MongoDb](https://www.mongodb.com/)
+ ---
+ 
 ## Install
 
 ```sh
