@@ -11,6 +11,7 @@ mongoose.connection
     .on('error', (error) => {
         console.warn('Error : ',error);
     });
+    
 //Called hooks which runs before something.
 beforeEach((done) => {
     mongoose.connection.collections.pokemons.drop(() => {
